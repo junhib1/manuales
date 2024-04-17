@@ -1,0 +1,10 @@
+ls - enlistar archivos dentro de la carpeta
+cd - cambiar de directorio
+touch - crear archivo o documento
+mkdir - crear carpeta
+cd .. - regresar una carpeta anterior
+cat - visualizar el archivo
+code - abrir la carpeta en visual studio code
+rm - borrar archivo
+mv - mover archivo
+ls -lha - para enlistar los archivos en lenguaje humano
